@@ -19,14 +19,16 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        
+        {% if site.avatar %}
+          <img src="{{site.avatar | relative_url}}" alt="Avatar" />
+        {% endif %}
 
-        <p>
-          Principal Inventive Scientist
-          AT&T Labs - Research
-          1 AT&T Way
-          Bedminster, NJ
-          cflynn@research.att.com
-        </p>
+        <p>Principal Inventive Scientist</p>
+        <p>AT&T Labs - Research</p>
+        <p>1 AT&T Way</p>
+        <p>Bedminster, NJ</p>
+        <p>cflynn@research.att.com</p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
