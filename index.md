@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## About Me
+I am a member of the Statistics Group in the Data Science and AI Research Organization at AT&T Labs.  I am interested in problems related to fairness and ethics in data science, data privatization, network modeling, model selection, and unsupervised learning.  I am also one of the organizers of the annual [AT&T Labs Graduate Student Symposium](http://stats.research.att.com/grad-symposium/).
 
-You can use the [editor on GitHub](https://github.com/cherylflynn/cherylflynn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I received by PhD in Statistics from New York University in 2014 under the supervision of Cliff Hurvich, Patrick Perry, and Jeff Simonoff.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Prior to that I received my BA in Economics and Mathematics from McGill University.
 
-### Markdown
+## Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Flynn, C. and Perry, P. [Profile Likelihood Biclustering](https://projecteuclid.org/euclid.ejs/1580461237). Electronic Journal of Statistics, 14(1):731-768, 2020.
 
-```markdown
-Syntax highlighted code block
+Li, R., Jian, J., Ju, C., Flynn, C., Hsu, W., Wang, J., Wang, W., and Xu, T. [Enhancing Response Generation Using Chat Flow Identification](https://jyunyu.csie.org/docs/pubs/kddcai2018paper.pdf). KDD Workshop on Conversational AI, 2018.
 
-# Header 1
-## Header 2
-### Header 3
+Xi, H., Machanavajjhala, A., Flynn, C., and Srivastava, D. [Composing Differential Privacy and Secure Computation: A case study on scaling private record linkage](https://arxiv.org/abs/1702.00535). In Proceedings of the ACM Conference on Computer and Communications Security, 2017.
 
-- Bulleted
-- List
+Flynn, C., Hurvich, C., and Simonoff, J. S. [On the Sensitivity of the Lasso to the Number of Predictor Variables](https://projecteuclid.org/euclid.ss/1491465629). Statistical Science, 32(1): 88-105, 2017.
 
-1. Numbered
-2. List
+Flynn, C., Shirley, K., and Wang, W. [Deconstructing Domain Names to Reveal Latent Topics](https://ieeexplore.ieee.org/document/7796938). In Proceedings of the IEEE International Conference on Data Science and Advanced Analytics, 2016.
 
-**Bold** and _Italic_ and `Code` text
+Flynn, C., Hurvich, C. M., and Simonoff, J. S. [Discussion: Deterioration of performance of the lasso with many predictors](https://journals.sagepub.com/doi/abs/10.1177/1471082X16642643). Statistical Modelling, 16:212-216, 2016.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cherylflynn/cherylflynn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Flynn, C., Hurvich, C., and Simonoff, J. [Efficiency for Regularization Parameter Selection in Penalized Likelihood Estimation of Misspecified Models](https://www.tandfonline.com/doi/abs/10.1080/01621459.2013.801775?journalCode=uasa20). Journal of the American Statistical Association, 108(503):1031-1043, 2013.
