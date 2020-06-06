@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Cheryl Flynn Brooks
-image: cheryl.jpg
+author: Cheryl Flynn Brooks
+
+social-network-links:
+  email: flynn.cheryl@gmail.com
+  linkedin: https://www.linkedin.com/in/cheryl-flynn-brooks/
