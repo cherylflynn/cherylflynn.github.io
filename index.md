@@ -5,8 +5,6 @@ I received by PhD in Statistics from New York University in 2014 under the super
 
 Prior to that I received my BA in Economics and Mathematics from McGill University.
 
-Full [CV](https://github.com/cherylflynn/cherylflynn.github.io/raw/master/cflynn_cv_06072020.pdf).
-
 ## Publications
 
 Farias, V., Brito, F., Flynn, C., Machado, J., Majumdar, S., and Srivastava, D.  Local Dampening: Differential Privacy for Non-numeric Queries via Local Sensitivity.  Submitted, 2020.
