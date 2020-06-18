@@ -7,7 +7,7 @@ Prior to that I received my BA in Economics and Mathematics from McGill Universi
 
 ## Publications
 
-Dodwell, E., Flynn, C., Krishnamurthy, B., Majumdar, S., and Mitra, R.  System to Integrate Fairness Transparently: An Industry Approach.  2020.
+Dodwell, E., Flynn, C., Krishnamurthy, B., Majumdar, S., and Mitra, R.  [System to Integrate Fairness Transparently: An Industry Approach](https://arxiv.org/abs/2006.06082). arXiv:2006.06082, 2020.
 
 Farias, V., Brito, F., Flynn, C., Machado, J., Majumdar, S., and Srivastava, D.  Local Dampening: Differential Privacy for Non-numeric Queries via Local Sensitivity.  Submitted, 2020.
 
