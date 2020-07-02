@@ -12,6 +12,7 @@ Dodwell, E., Flynn, C., Krishnamurthy, B., Majumdar, S., and Mitra, R.  [System 
 Farias, V., Brito, F., Flynn, C., Machado, J., Majumdar, S., and Srivastava, D.  Local Dampening: Differential Privacy for Non-numeric Queries via Local Sensitivity.  Submitted, 2020.
 
 Flynn, C. and Perry, P. [Profile Likelihood Biclustering](https://projecteuclid.org/euclid.ejs/1580461237). Electronic Journal of Statistics, 14(1):731-768, 2020.
+[GitHub](https://github.com/patperry/biclustpl)
 
 Li, R., Jian, J., Ju, C., Flynn, C., Hsu, W., Wang, J., Wang, W., and Xu, T. [Enhancing Response Generation Using Chat Flow Identification](https://jyunyu.csie.org/docs/pubs/kddcai2018paper.pdf). KDD Workshop on Conversational AI, 2018.
 
