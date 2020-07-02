@@ -1,5 +1,5 @@
 ## About Me
-I am a member of the Statistics Group in the Data Science and AI Research Organization at AT&T Labs.  I am interested in problems related to fairness and ethics in data science, data privatization, network modeling, model selection, and unsupervised learning.  I am also one of the organizers of the annual [AT&T Labs Graduate Student Symposium](http://stats.research.att.com/grad-symposium/).
+I am a statistics and data science researcher at AT&T Labs.  I am interested in problems related to fairness and ethics in data science, data privatization, network modeling, model selection, and unsupervised learning.  I am also one of the organizers of the annual [AT&T Labs Graduate Student Symposium](http://stats.research.att.com/grad-symposium/).
 
 I received by PhD in Statistics from New York University in 2014 under the supervision of Cliff Hurvich, Patrick Perry, and Jeff Simonoff.
 
