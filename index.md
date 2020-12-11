@@ -1,5 +1,5 @@
 ## About Me
-I am a statistics and data science researcher at AT&T Labs.  I am interested in problems related to fairness and ethics in data science, data privatization, network modeling, model selection, and unsupervised learning.  I am also one of the organizers of the annual [AT&T Labs Graduate Student Symposium](http://stats.research.att.com/grad-symposium/).
+I am a statistics and data science researcher at AT&T Labs.  I am interested in problems related to fairness and ethics in data science, data privatization, network modeling, model selection, and unsupervised learning.  I am also one of the organizers of the [AT&T Labs Graduate Student Symposium](http://stats.research.att.com/grad-symposium/).
 
 I received by PhD in Statistics from New York University in 2014 under the supervision of Cliff Hurvich, Patrick Perry, and Jeff Simonoff.
 
@@ -9,7 +9,7 @@ Prior to that I received my BA in Economics and Mathematics from McGill Universi
 
 Dodwell, E., Flynn, C., Krishnamurthy, B., Majumdar, S., and Mitra, R.  [System to Integrate Fairness Transparently: An Industry Approach](https://arxiv.org/abs/2006.06082). arXiv:2006.06082, 2020.
 
-Farias, V., Brito, F., Flynn, C., Machado, J., Majumdar, S., and Srivastava, D.  Local Dampening: Differential Privacy for Non-numeric Queries via Local Sensitivity.  Submitted, 2020.
+Farias, V., Brito, F., Flynn, C., Machado, J., Majumdar, S., and Srivastava, D.  [Local Dampening: Differential Privacy for Non-numeric Queries via Local Sensitivity](https://arxiv.org/abs/2012.04117).  PVLDB.  To appear, 2020.
 
 Flynn, C. and Perry, P. [Profile Likelihood Biclustering](https://projecteuclid.org/euclid.ejs/1580461237). Electronic Journal of Statistics, 14(1):731-768, 2020.  [[GitHub]](https://github.com/patperry/biclustpl)
 
