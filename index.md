@@ -1,15 +1,21 @@
 ## About Me
-I am a statistics and data science researcher at AT&T Labs.  I am interested in problems related to fairness and ethics in data science, data privatization, network modeling, model selection, and unsupervised learning.  I am also one of the organizers of the [AT&T Labs Graduate Student Symposium](http://stats.research.att.com/grad-symposium/).
+I am a statistics and data science researcher for the AT&T Chief Data Office.  I am interested in problems related to fairness and ethics in data science, data privatization, network modeling, model selection, and unsupervised learning.  
 
-I received by PhD in Statistics from New York University in 2014 under the supervision of Cliff Hurvich, Patrick Perry, and Jeff Simonoff.
+I received my PhD in Statistics from New York University in 2014 under the supervision of Cliff Hurvich, Patrick Perry, and Jeff Simonoff.
 
 Prior to that I received my BA in Economics and Mathematics from McGill University.
 
 ## Publications
 
+Brito, F. T., Farias, V. A. E., Flynn, C., Majumdar, S., Machado, J. C., and Srivastava, D.  Global and Local Differentially Private Release of Count-Weighted Graphs.  Submitted.
+
+Flynn, C., Guha, A., Majumdar, S., Srivastava, D., and Zhou, Z.  [Towards Algorithmic Fairness in Space-Time: Filling in Black Holes](https://arxiv.org/abs/2211.04568).  NeurIPS 2022 TSRML Workshop, 2022.  
+
+Majumdar, S., Flynn, C., and Mitra, R. [Detecting Bias in the Presence of Spatial Autocorrelation](https://proceedings.mlr.press/v171/majumdar22a/majumdar22a.pdf).  NeurIPS 2021 AFCR Workshop, PMLR 171: 6-18, 2022. 
+
 Dodwell, E., Flynn, C., Krishnamurthy, B., Majumdar, S., and Mitra, R.  [System to Integrate Fairness Transparently: An Industry Approach](https://arxiv.org/abs/2006.06082). arXiv:2006.06082, 2020.
 
-Farias, V., Brito, F., Flynn, C., Machado, J., Majumdar, S., and Srivastava, D.  [Local Dampening: Differential Privacy for Non-numeric Queries via Local Sensitivity](https://arxiv.org/abs/2012.04117).  PVLDB.  To appear, 2020.
+Farias, V., Brito, F., Flynn, C., Machado, J., Majumdar, S., and Srivastava, D.  [Local Dampening: Differential Privacy for Non-numeric Queries via Local Sensitivity](https://arxiv.org/abs/2012.04117).  PVLDB, 14(4): 521-533, 2020.
 
 Flynn, C. and Perry, P. [Profile Likelihood Biclustering](https://projecteuclid.org/euclid.ejs/1580461237). Electronic Journal of Statistics, 14(1):731-768, 2020.  [[GitHub]](https://github.com/patperry/biclustpl)
 
@@ -25,14 +31,5 @@ Flynn, C., Hurvich, C. M., and Simonoff, J. S. [Discussion: Deterioration of per
 
 Flynn, C., Hurvich, C., and Simonoff, J. [Efficiency for Regularization Parameter Selection in Penalized Likelihood Estimation of Misspecified Models](https://www.tandfonline.com/doi/abs/10.1080/01621459.2013.801775?journalCode=uasa20). Journal of the American Statistical Association, 108(503):1031-1043, 2013.
 
-## Selected Projects
-
-### Detecting and Mitigating Bias in Targeted Advertising
-
-To support AT&T’s new advertising division, our team is developing checks that can be put in place to ensure that the targeted audience for an advertising campaign is not accidentally biased towards certain protected groups of consumers. This work focuses on using disparate impact to measure discrimination in targeted advertising, and proposes an approach based on machine learning techniques that allows us to infer the relevant audience for a campaign from an initial targeted list provided by an advertiser. The inferred relevant audience can then be used to test for bias across different consumer groups. Our methods can also be used to expand the targeted audience in a way that will help mitigate any detected bias. These proactive steps support AT&T’s long-term commitment to the responsible use of customer information as well as maintaining a brand-safe environment for our advertising clients.  
-
-### How May I Help You? Improving the Online Customer Experience Using Machine Learning
-
-Digital care is a growing and important customer service channel that has the potential to reduce costs while increasing customer satisfaction by shortening wait times. These advantages are contingent on connecting the customer to the best agent to solve his/her problem. Thus, automatically understanding each customer’s contact reason is a key building block. In this talk we use topic model techniques to analyze AT&T’s online customer care chat data, where the chats in our data sample were routed to an initial agent using information such as the chat launch page URL, the customer’s navigation path on the AT&T webpage, and the customer’s chat menu guide selections. Our findings suggest that while a customer’s online activity reflects his/her self-initiated search path for answers, the customer’s true, detailed intent is not revealed until the conversation starts. To improve the customer routing process, we propose an adaptive procedure based on intent identification. In our approach, we first learn each agent group’s expertise from recent chat transcripts using scalable deep learning and topic modeling techniques. We then use these agent group profiles to align each customer’s intent with the correct agent group. We demonstrate the effectiveness of this approach using A/B test results and discuss future directions for intelligent digital care.  
 
 
