@@ -1,5 +1,5 @@
 ## About Me
-I am a statistics and data science researcher for the AT&T Chief Data Office.  I am interested in problems related to responsible AI, data privatization, network modeling, model selection, and unsupervised learning.  
+I am a data science and AI researcher for the AT&T Chief Data Office.  I am interested in problems related to responsible AI, differential privacy, network modeling, model selection, and unsupervised learning.  
 
 I received my PhD in Statistics from New York University in 2014 under the supervision of Cliff Hurvich, Patrick Perry, and Jeff Simonoff.
 
@@ -7,7 +7,11 @@ Prior to that I received my BA in Economics and Mathematics from McGill Universi
 
 ## Publications
 
-Brito, F. T., Farias, V. A. E., Flynn, C., Majumdar, S., Machado, J. C., and Srivastava, D.  Global and Local Differentially Private Release of Count-Weighted Graphs.  Submitted.
+Farias, V., Brito, F., Flynn, C., Machado, J., and Srivastava, D.  [Differntially Private Multi-Objective Selection: Pareto and Aggregation Approaches](https://arxiv.org/abs/2412.14380).  arXiv:2412.14380, 2024.
+
+Farias, V., Brito, F., Flynn, C., Machado, J., Majumdar, S., and Srivastava, D.  [Local Dampening: Differential Privacy for Non-numeric Queries via Local Sensitivity](https://link.springer.com/article/10.1007/s00778-022-00774-w).  The VLDB Journal, 32(6):1191-1214, 2023.
+
+Brito, F. T., Farias, V. A. E., Flynn, C., Majumdar, S., Machado, J. C., and Srivastava, D.  [Global and Local Differentially Private Release of Count-Weighted Graphs](https://dl.acm.org/doi/abs/10.1145/3589299).  Proceedings of the ACM on Management of Data, 1(2): 1-25, 2022.
 
 Flynn, C., Guha, A., Majumdar, S., Srivastava, D., and Zhou, Z.  [Towards Algorithmic Fairness in Space-Time: Filling in Black Holes](https://arxiv.org/abs/2211.04568).  NeurIPS 2022 TSRML Workshop, 2022.  
 
