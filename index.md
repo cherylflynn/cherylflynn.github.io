@@ -1,5 +1,5 @@
 ## About Me
-I am a statistics and data science researcher for the AT&T Chief Data Office.  I am interested in problems related to fairness and ethics in data science, data privatization, network modeling, model selection, and unsupervised learning.  
+I am a statistics and data science researcher for the AT&T Chief Data Office.  I am interested in problems related to responsible AI, data privatization, network modeling, model selection, and unsupervised learning.  
 
 I received my PhD in Statistics from New York University in 2014 under the supervision of Cliff Hurvich, Patrick Perry, and Jeff Simonoff.
 
